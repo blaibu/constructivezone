@@ -12,4 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require underscore
+//= require backbone
+//= require duckbone
+//= require templates
+//= require duckbone/constructivezone
 //= require_tree .

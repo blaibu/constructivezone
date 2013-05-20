@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/blaibu/duckbone-beta
-  revision: 6d1f1032cc98e78d771efd48f4533fd39163331a
+  revision: 7b7485b81dddb95738ea1b33a4faf16cb1414296
   branch: duckbone-beta-js
   specs:
     duckbone (0.0.1)
